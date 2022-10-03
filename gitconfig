@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = charles.l.gerard@gmail.com
+	name = Charles Gerard
